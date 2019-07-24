@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "src": "./assets/mongo.jpg",
+      "name": "mongoDB"
+    },
+    {
+      "id": 2,
+      "src": "./assets/MySQL.png",
+      "name": "MySQL"
+    },
+    {
+      "id": 3,
+      "src": "./assets/node.jpg",
+      "name": "node"
+    },
+    {
+      "id": 4,
+      "src": "./assets/react.png",
+      "name": "react"
+    }
+  ]
